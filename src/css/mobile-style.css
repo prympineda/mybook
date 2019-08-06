@@ -1,0 +1,90 @@
+@media only screen and (max-width: 768px) {
+  header .navbar-brand {
+    padding-left: 1rem;
+  }
+
+  .section1 .row .col-md-6 .card {
+    position: initial;
+    width: initial;
+    height: initial;
+  }
+
+  .section2 .cover {
+    background-position: left center;
+    background-position-x: -2rem;
+    background-size: 150%;
+  }
+
+  /* .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+      } */
+  .numbers .rect h1 {
+    font-size: 5rem;
+  }
+
+  .numbers .rect p {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+
+
+
+  /* .section-3 {
+      height: inherit;
+      padding: 10vmin !important;
+    } */
+  /*
+    .section-3 .row h1 {
+      padding: 6vmin 4vmin;
+    }
+    .section-3 .platform .col-md-6 {
+      text-align: center !important;
+    }
+    .section-3 .desktop i {
+      font-size: 8vmin;
+    }
+    .section-4 .carousel-item {
+      padding-left: 0.6rem;
+    }
+    footer .row .col-md-2 {
+      margin-top: 8vmin;
+    } */
+}
+
+/* screen size 375px */
+
+/* @media only screen and (max-width: 375px) {
+    .section-4 .card {
+      width: 18em;
+    }
+  }
+  
+  @media only screen and (max-width: 320px) {
+    .section-4 .carousel-inner {
+      margin-left: -4vmin;
+    }
+  } */
+
+/* @media (max-width: 992px) { 
+  .numbers .rect {
+    width: 10rem;
+    height: 8rem;
+  }
+  .numbers .rect h1 {
+    font-size: 2rem;
+  }
+ 
+}  */
+
+/* 
+@media (min-width: 768px) and (max-width: 1199px) { 
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+      }
+      .numbers .rect h1 {
+        font-size: 2rem;
+      }
+ } */
